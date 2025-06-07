@@ -37,4 +37,4 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 
 ## P&L by Months :
 ![Image](https://github.com/user-attachments/assets/72864b67-5909-432c-aac6-c6349d7cd9c9)
-   ![Image](https://github.com/user-attachments/assets/3e254a84-ffe2-4fc5-b40a-c55cd3668d73)
+![Image](https://github.com/user-attachments/assets/dc28149a-72e4-415b-9a18-1e3aa7fd5cb4)
