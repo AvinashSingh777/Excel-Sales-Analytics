@@ -9,7 +9,7 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 3. Finance Analytics : P&L Statement by Fiscal Year Report
 4. Finance Analytics : P&L Statement by Months Report
 
-## Steps to be Followed in this project
+## Steps to be Followed in this project :
 <u></u>
 1. Learned about project objectives.
 3. Used CSV file as data source for retrieving data into Power Query.
@@ -19,13 +19,13 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 7. Creating reports using Pivot Tables built on the Data Model.
 
 
-## Data Modeling : Diagram View
+## Data Modeling : Diagram View :
 ![Image](https://github.com/user-attachments/assets/b984cbcd-41d2-4ae0-b339-1c408103d15e)
 
 
-## Customer Performance Report
+## Customer Performance Report :
 ![Image](https://github.com/user-attachments/assets/c16fe473-93f5-41ca-b9e0-b2a810c6dbb7)
 
 
-## Market Performance vs Target Report
+## Market Performance vs Target Report :
 ![Image](https://github.com/user-attachments/assets/cbd78b8b-9758-4b5a-a94f-8fd6bf7e70be)
