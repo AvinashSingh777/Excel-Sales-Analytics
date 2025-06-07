@@ -20,5 +20,5 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 
 
 ## Data Modeling : Diagram View
-
+Report in PDF/Diagram view_Data Modeling.png
 
