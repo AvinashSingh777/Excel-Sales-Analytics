@@ -2,12 +2,16 @@
  <u></u> 
 Atliq Hardware is a company moving towards advanced analytics, but Excel still has a stronghold in data-informed decision making.
 
-## Task:
+## Sales Report :
 <u></u>
+- **Project objective:** 
 1. Sales Analytics : Create Customer Performance Report
 2. Sales Analytics : Create Market Performance vs Target Report
-3. Finance Analytics : P&L Statement by Fiscal Year Report
-4. Finance Analytics : P&L Statement by Months Report
+- **Purpose of sales analytics:**
+1. Empower businesses to monitor and evaluate their sales activities and performance.
+2. Identify sales patterns and track key performance indicators (KPIs).
+4. Finance Analytics : P&L Statement by Fiscal Year Report
+5. Finance Analytics : P&L Statement by Months Report
 
 ## Steps to be Followed in this project :
 <u></u>
