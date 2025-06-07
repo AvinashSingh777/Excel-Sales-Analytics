@@ -20,5 +20,5 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 
 
 ## Data Modeling : Diagram View
-![Diagram view_Data Modeling](Report in PDF/Diagram view_Data Modeling.png)
+![Diagram view_Data Modeling]([Report in PDF/Diagram view_Data Modeling.png](https://github.com/AvinashSingh777/Excel-Sales-Analytics/blob/main/Report%20in%20PDF/Diagram%20view_Data%20Modeling.png))
 
