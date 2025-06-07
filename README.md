@@ -10,9 +10,15 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 - **Purpose of sales analytics:**
 1. Empower businesses to monitor and evaluate their sales activities and performance.
 2. Identify sales patterns and track key performance indicators (KPIs).
-4. Finance Analytics : P&L Statement by Fiscal Year Report
-5. Finance Analytics : P&L Statement by Months Report
 
+## Finance Report :   
+<u></u>
+- **Project objective:** 
+1. Finance Analytics : P&L Statement by Fiscal Year Report
+2. Finance Analytics : P&L Statement by Months Report
+- **Purpose of sales analytics:**
+1. Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+2. Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 ## Steps to be Followed in this project :
 <u></u>
 1. Learned about project objectives.
