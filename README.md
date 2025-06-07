@@ -15,8 +15,10 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 3. Used CSV file as data source for retrieving data into Power Query.
 4. Data Cleaning in power query and ETL (Extract, Transform, Load)
 5. Exploratory Data Analysis(EDA)
-6. Data Modeling and DAX
+6. Data Modeling and DAX in Power Pivot
 7. Creating reports using Pivot Tables built on the Data Model.
 
 
 ## Data Modeling : Diagram View
+
+https://github.com/AvinashSingh777/Excel-Sales-Analytics/blob/main/Report%20in%20PDF/Diagram%20view_Data%20Modeling.png
