@@ -38,3 +38,17 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 ## P&L by Months :
 ![Image](https://github.com/user-attachments/assets/72864b67-5909-432c-aac6-c6349d7cd9c9)
 ![Image](https://github.com/user-attachments/assets/dc28149a-72e4-415b-9a18-1e3aa7fd5cb4)
+
+## Technical Skills :
+ 1. Proficiency in ETL methodology (Extract, Transform, Load).
+ 2. Skills to generate a date table using Power Query.
+ 3. Ability to derive fiscal months and quarters.
+ 4. Establishing data model relationships with Power Pivot.
+ 5. Proficiency in incorporating supplementary data into an existing data model.
+ 6. Utilizing DAX to create calculated columns.
+
+## Soft Skills :
+ 1. Refined understanding of Sales & Finance Reports
+ 2. Designing user-centric reports with empathy in mind.
+ 3. Optimization of report generation through meticulous fine-tuning.
+ 4. Developing a systematic approach to devising a report building plan.
