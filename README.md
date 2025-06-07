@@ -24,4 +24,4 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 
 
 ## Customer Performance Report
-[Customer Performance Report.pdf](https://github.com/user-attachments/files/20638520/Customer.Performance.Report.pdf)
+![Image](https://github.com/user-attachments/assets/c16fe473-93f5-41ca-b9e0-b2a810c6dbb7)
